@@ -1,0 +1,7 @@
+Severity,Description,Timestamp,Server Location
+High,Server crashed abruptly,2023-07-30 09:15:00,Server A
+Low,Software update completed successfully,2023-07-30 10:00:30,Server B
+Medium,Network connectivity issue resolved,2023-07-30 10:30:45,Server A
+High,Database connection failure,2023-07-30 11:05:15,Server B
+Medium,Application error occurred,2023-07-30 11:20:30,Server A
+High,Security breach detected,2023-07-30 12:10:00,Server B
